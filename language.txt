@@ -1,0 +1,5 @@
+bahasa pemerograman apa yang akan di pelajari selanjut nya
+
+-nodejs
+-python
+-golang
