@@ -1,4 +1,7 @@
-bahasa pemerograman apa yang akan di pelajari selanjut nya selanjutnya kita akan fokus di software
 
--java
+bahasa pemerograman apa yang akan di pelajari selanjut nya next fokus di software dan android
+
+-fluter
+-golang
 -dart
+-java
