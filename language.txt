@@ -1,5 +1,4 @@
-bahasa pemerograman apa yang akan di pelajari selanjut nya
+bahasa pemerograman apa yang akan di pelajari selanjut nya selanjutnya kita akan fokus di software
 
--nodejs
--python
+-java
 -golang
